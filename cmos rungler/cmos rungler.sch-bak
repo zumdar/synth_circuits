@@ -1594,4 +1594,6 @@ Wire Wire Line
 	11000 1750 11000 2500
 Wire Wire Line
 	11350 1750 11350 1950
+Text GLabel 8500 850  0    50   Input ~ 0
+ledin
 $EndSCHEMATC

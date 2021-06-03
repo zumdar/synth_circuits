@@ -1,14 +1,15 @@
 EESchema Schematic File Version 4
+LIBS:cmos rungler-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "CMOS rungler "
 Date ""
-Rev ""
+Rev "1"
 Comp ""
-Comment1 ""
+Comment1 "william kennedy"
 Comment2 ""
 Comment3 ""
 Comment4 ""
