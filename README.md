@@ -1,2 +1,2 @@
 # synth_circuits
-synthesizer circuits
+synthesizer and audio circuits
